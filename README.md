@@ -2,9 +2,11 @@
 
 An end-to-end analytics project: raw retail data loaded into **SQL Server**, validated and explored with **SQL (CTEs and window functions)**, then turned into a two-page interactive **Power BI** dashboard with custom **DAX** measures.
 
-![Executive Performance](images/page1-executive-performance.png)
+<img width="1778" height="848" alt="page1-executive-performance" src="https://github.com/user-attachments/assets/535cb0d7-f13b-4edd-be60-1143a8e2cc88" />
 
-![Customer Profit Details](images/page2-customer-details.png)
+
+<img width="1778" height="851" alt="page2-customer-details" src="https://github.com/user-attachments/assets/39431263-b080-4f33-afbe-c8c916746710" />
+
 
 ## Project Workflow
 
